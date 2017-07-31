@@ -1,0 +1,9 @@
+body{background:#f7f7f7; font-family:Verdana, Arial,Helvetica,sans-serif; font-size:100%; padding:100px 0 0 300px}
+form{background:white;border:1px solid #ccc;padding:22px 38px;width:265px}
+label{color:#d25959;display:block;font-size:.8em;font-weight:600}
+input{border:1px solid #ccc;box-shadow:inset #ccc 0 0 5px;cursor:pointer;font-style:italic;margin:8px 0 20px;padding:7px;width:250px}
+.enviar{background:#d25959;box-shadow:none;color:white;margin-bottom:0;width:100px}
+.enviar:hover{text-decoration:underline}
+span{display:block;font-size:.8em;margin:0px 0 10px;padding:5px 0 5px 11px;width:200px}
+.confirmacion{background:#C6FFD5;border:1px solid green;}
+.negacion{background:#ffcccc;border:1px solid red}
